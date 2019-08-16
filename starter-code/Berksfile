@@ -1,0 +1,4 @@
+source 'https://supermarket.chef.io'
+
+cookbook 'node', git: 'https://github.com/allypreston/node-cookbook'
+cookbook 'mongodb', git: 'https://github.com/allypreston/mongodb-cookbook'
